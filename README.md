@@ -1,3 +1,5 @@
 # Codechef_Problems
-Monthly Problems/Cookoff/Long-challenges<br/><br/>
+**Monthly Problems**<br/>
+**Cookoff**<br/>
+**Long-challenges**<br/><br/>
 My Codechef profile link [Here](https://www.codechef.com/users/j2infy)
